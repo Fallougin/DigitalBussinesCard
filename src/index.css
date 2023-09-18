@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  height: 100vh;
+}
+
+.AboutMe {
+  background-color: #282D35;
+  color: #e8bd7c;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.AboutMe img {
+  margin: 0 auto;
+  display: block; 
+  border-radius: 50%; 
+}
+
+h3 {
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h5 {
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+hr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  width: 93%;
+}
+
+.Main {
+  padding: 15px 25px;
+  background-color: #FFFFFF;
+}
+
+footer {
+  display: flex; 
+  justify-content: space-between; 
+}
+
+a {
+  background: none;
+  border: none;
+  margin: auto;
+  cursor:pointer;
+}
+
+.Phone {
+  font-family: "Lucida Console", monospace;
+  color: gray;
+}
+
+.Email {
+  font-family: "Lucida Console", monospace;
+  color: gray;
+}
+
+.MyNumber {
+  padding-left: 15px;
+  font-family: "Gill Sans", sans-serif;
+}
+
+.MyEmail {
+  padding-left: 15px;
+  font-family: "Gill Sans", sans-serif;
+}
